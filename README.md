@@ -6,7 +6,7 @@
 
 | skill 名称 | 说明 |
 |------------|------|
-| [scan-then-speckit-constitution](./scan-then-speckit-constitution/SKILL.md) | 自动扫描项目配置与约定，调用 `/speckit-constitution` 生成项目宪法 |
+| [scan-then-speckit-constitution](./scan-then-speckit-constitution/SKILL.md) | 自动扫描项目配置与约定，调用 `/speckit-constitution` 生成项目宪法,请确保已经安装了 github/spec-kit |
 
 ## 前置要求
 
